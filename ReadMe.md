@@ -8,4 +8,4 @@ Esse é o meu repositório onde vou adicionar arquivos relacionados à **Ciênci
 - Machine Learning
 
 ## 🎯 Objetivo
-Guardar e organizar meus estudos durante a universidade..
+Guardar e organizar meus estudos durante a universidade.
